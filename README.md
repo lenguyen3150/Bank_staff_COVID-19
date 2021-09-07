@@ -1,5 +1,4 @@
 # Bank_staff_COVID-19
 
-Results 
-
+# Result
 Directory to store simulation outputs.
