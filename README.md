@@ -1,9 +1,15 @@
 # Bank_staff_COVID-19
+# Description
 
 # Model
 
-# Results
+# Outputs
 Directory to store simulation outputs.
 
-# Plots
-Directory to store plot scripts.
+# R
+Directory to store R scripts.
+
+# Figs
+Directory to store the figures included in the paper.
+
+# Supplementary_Materials
