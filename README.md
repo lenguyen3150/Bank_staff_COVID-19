@@ -7,7 +7,7 @@ The code was developed for the analysis presented in the scientific paper "Hybri
 Please find below an explainer of the directory structure within this repository.
 
 # Model
-The [ODD (Overview, Design Concepts, and Details)] (S1_ODD_Hybrid Model.docx) provides a detailed description of the model.
+The [ODD (Overview, Design Concepts, and Details)] (S1_ODD_Hybrid_Model.docx) provides a detailed description of the model.
 
 # Outputs
 Directory to store simulation outputs.
