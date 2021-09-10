@@ -8,9 +8,6 @@ The model was developed for the analysis presented in the scientific paper "Hybr
 
 Please find below an explainer of the directory structure within this repository.
 
-# Model
-The ODD (Overview, Design Concepts, and Details) provides a detailed description of the model (S1_ODD_Hybrid_Model.docx).
-
 # Outputs
 Directory to store simulation outputs.
 
@@ -21,6 +18,11 @@ Directory to store R scripts.
 Directory to store the figures included in the paper.
 
 # Supplementary_Materials
+Directory to store the supplemetary materials.
+S1. The ODD (Overview, Design Concepts, and Details) provides a detailed description of the model.
+S2. Methods
+S3. Additional Modelling Results
+S4. Results of Sensitivity and Uncertainty Analyses
 
 # Funding
 This work is independent research funded by the National Institute for Health Research (Policy Research Programme, Responsive Operational Research Facility, PR-R17-0916-21002). The views expressed in this publication are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research or the Department of Health and Social Care.
