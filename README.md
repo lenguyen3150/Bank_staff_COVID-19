@@ -9,9 +9,15 @@ The model was developed for the analysis presented in the scientific paper "Hybr
 Please find below an explainer of the directory structure within this repository.
 
 # Data
-Directory to store input data.
+Directory to store input data and data for validation.
+
 Daily cases in the UK: https://coronavirus.data.gov.uk/details/cases (Input for daily incidence in the community)
-COVID-19 daily data for Scotland including care homes: https://www.gov.scot/publications/coronavirus-covid-19-daily-data-for-scotland/
+
+COVID-19 daily data for Scotland including care homes: 
+
+https://www.gov.scot/publications/coronavirus-covid-19-daily-data-for-scotland/
+
+https://publichealthscotland.scot/publications/covid-19-statistical-report/covid-19-statistical-report-8-september-2021/dashboard/
 
 # Outputs
 Directory to store simulation outputs.
