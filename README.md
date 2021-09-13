@@ -8,6 +8,9 @@ The model was developed for the analysis presented in the scientific paper "Hybr
 
 Please find below an explainer of the directory structure within this repository.
 
+# Model 
+Directory to store Java codes.
+
 # Data
 Directory to store input data and data for validation.
 
