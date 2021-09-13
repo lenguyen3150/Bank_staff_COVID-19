@@ -4,7 +4,7 @@ This repository contains files for performing computational simulations of a hyb
 
 The model was built in Anylogic PLE 8.7.5, a multimethod simulation modelling tool that combines graphical modelling and Java code, and analysis was carried out in R version 1.4.1717.
 
-The model was developed for the analysis presented in the scientific paper "Hybrid simulation modelling networks of heterogeneous care homes and the inter-facility spread of Covid-19 by sharing staff" by Le Khanh Ngan Nguyen, Dr Itamar Megiddo, and Professor Susan Howick.
+The model was developed for the analysis presented in the scientific paper "Hybrid simulation modelling networks of heterogeneous care homes and the inter-facility spread of Covid-19 by sharing staff" by Le Khanh Ngan Nguyen, Dr Itamar Megiddo, and Prof Susan Howick.
 
 Please find below an explainer of the directory structure within this repository.
 
