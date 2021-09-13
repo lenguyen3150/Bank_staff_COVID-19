@@ -8,6 +8,10 @@ The model was developed for the analysis presented in the scientific paper "Hybr
 
 Please find below an explainer of the directory structure within this repository.
 
+# Data
+Daily cases in the UK: https://coronavirus.data.gov.uk/details/cases (Input for daily incidence in the community)
+
+
 # Outputs
 Directory to store simulation outputs.
 
