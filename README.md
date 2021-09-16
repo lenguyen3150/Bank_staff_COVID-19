@@ -11,8 +11,6 @@ Please find below an explainer of the directory structure within this repository
 # Model 
 Directory to store Java codes.
 
-Anylogic file: https://strathcloud.sharefile.eu/d-s47831b3432e94d12a0ad904ac445788b
-
 # Data
 Directory to store input data and data for validation.
 
