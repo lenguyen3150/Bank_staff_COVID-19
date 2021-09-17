@@ -1,4 +1,4 @@
-# Bank_staff_COVID-19
+# Spread of Covid-19 across Care Homes by Sharing Bank/Agency Staff
 # Description
 This repository contains files for performing computational simulations of a hybrid system dynamics (SD) and agent-based (AB) model. The model simulates SARS-CoV-2 transmission across a network of heterogeneous care homes via bank/agency staff who work in multiple care homes. 
 
